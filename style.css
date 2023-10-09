@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  line-height: 1.7;
+}
+
+html {
+  font-size: 80%;
+}
+
+.for-you {
+  min-height: 100vh;
+  background-color: #56BBF1;
+  color: white;
+}
+
+.for-you h1 {
+  font-size: 2.5rem;
+}
+
+.for-you h2 {
+  font-size: 1.8rem;
+}
+
+.for-you a {
+  color: white;
+  background: #8DCBE6;
+}
+
+.for-you a:hover {
+  color: white;
+  background: #FFA1F5;
+}
+
+.typewritter {
+  font-size: 1.8rem;
+}
+
+.ndyy {
+  border-radius: 30% 70% 70% 30% / 30% 53% 47% 70%;
+  height: 350px;
+}
